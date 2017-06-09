@@ -1,5 +1,4 @@
 # OHSU2017
-Workshop on Clinical Trial Transparency run jointly by Dr. Erick Turner (OHSU) and April Clyburne-Sherin (AllTrials USA).
 
 # Clinical Trial Transparency Workshop 
 ## How to access and use public clinical trial information from the FDA
